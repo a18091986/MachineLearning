@@ -1,0 +1,21 @@
+Marketing Promotion Campaign Uplift Modelling
+
+https://www.kaggle.com/datasets/davinwijaya/customer-retention
+
+About Dataset
+Context
+Marketing Promotion Campaign
+with a total of 6,400 customers data.
+
+Content
+This dataset show customer's brief information,
+historical use of discount or BOGO(Buy One Get One) promotion,
+offer has been made, and the conversion result(buy or not).
+The conversion average value = $25
+Acknowledgements
+This dataset is a fictional dataset for practicing purpose
+
+Inspiration
+Predict customer's conversion rate
+Uplift Modelling to maximizing marketing campaign and reducing campaign cost
+
